@@ -1,6 +1,6 @@
 {
-	"host": "Enter your server ip or url",
-	"port": "Enter your server port",
+	"host": "EsportsHub.aternos.me",
+	"port": "43147",
 	"username": "Enter the AFKBot's username you want (Whatever doesn't matter)",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
